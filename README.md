@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,16 +15,7 @@
    <h2>I am a fitness trainer</h2>
    <h2>I like to sing, dance, and play sports</h2>
    <hr>
-   <h2><b>list of social networks:</b></h2>
 
-   
-   <a href="https://web.telegram.org/k/"target="_blank">Telegram</a>
-
-|
-<a href="https://vk.com/?ysclid=m916sg2u1n763689171"target="_blank">Vk</a>
-|
-
-<a href="https://ok.ru/"target="_blank">OK</a>
 
 <h2><b>My hobby</b></h2>
 
